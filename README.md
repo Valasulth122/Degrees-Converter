@@ -1,2 +1,9 @@
 # Degrees-Converter
-Celsius to fahreneit converter
+
+## Description
+---
+a basic celsius to farhenheit converter
+
+
+## Build
+---
